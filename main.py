@@ -6,6 +6,8 @@ import pandas as pd
 #TODO: Visualize Call of Duty Sales, in North America by Platform
 ##################################
 
+#	Tip: use Matplotlib and create bar chart. 
+
 
 # Read CSV
 raw_data = pd.read_csv('Week 8 - vgsales.csv')
